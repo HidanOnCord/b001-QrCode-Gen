@@ -1,13 +1,10 @@
 import qrcode
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
-import shutil
 import os
 from PyQt5.QtGui import QPixmap
-from secrets import choice
+from random import choice
 
-#name = 'youtube2.png'
-#generate_qrcode(link, name)
 
 
 class gui(QtWidgets.QWidget):
