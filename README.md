@@ -4,9 +4,12 @@ This is the project idea from https://youtube.com/shorts/ZqS_lnqSgeY?feature=sha
 
 First do 
 
-<strong> 
 git clone https://github.com/HidanOnCord/b001-QrCode-Gen <br>
-pip install -r requirements.txt 
-<strong>
 
-then run main.py and the rest is self-explanatory
+Then,
+
+pip install -r requirements.txt 
+
+Then run main.py
+
+The rest is self-explanatory
