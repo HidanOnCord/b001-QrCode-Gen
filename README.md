@@ -5,7 +5,7 @@ This is the project idea from https://youtube.com/shorts/ZqS_lnqSgeY?feature=sha
 First do 
 
 <strong> 
-git clone https://github.com/HidanOnCord/b001-QrCode-Gen
+git clone https://github.com/HidanOnCord/b001-QrCode-Gen <br>
 pip install -r requirements.txt 
 <strong>
 
